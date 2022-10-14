@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::cout << "Hello World! 2222\n";
+    std::cout << "Hello World!\n";
     // :)
 }
 
