@@ -4,9 +4,9 @@
 
  int main()
  {
-	 long double n;
+	 int n;
 	 cin >> n;
-	 for (long double i = 1; i <= n; i++)
+	 for (int i = 1; i <= n; i++)
 		 if (n % i == 0) {
 			 cout << i << "\n";
 
