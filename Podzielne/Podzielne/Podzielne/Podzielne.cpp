@@ -18,5 +18,5 @@ int main()
 	cout << count++<<"\n";
 }
 
-//najsss
+//najssssssss
 
