@@ -17,6 +17,6 @@ int main()
 	}
 	cout << count++<<"\n";
 }
-
+//commituj sie
 //najssssssss
 
